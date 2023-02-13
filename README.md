@@ -6,5 +6,3 @@ My purpose is to help community achieving the scalability we desire for the visi
 - 💻: I do reserach in Cryptography(ZK),Ethereum, L2 scaling solutions and abstract protocol concepts.
 - ✍️:  I write about Blockchain Infrastructure and interoperability.
 - 📷:I love building in Web3, photography and memes
-# Connect with me
-# 
