@@ -1,8 +1,7 @@
-# ***Hello there, I'm** rabiafatima.eth 👋
+# ***Hello there, I'm** [rabiafatima.eth](https://twitter.com/rabiaf183) 👋
 
-<!--
 I am currently a Reserach Engineer at [Xord.com](https://xord.com)
-)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
