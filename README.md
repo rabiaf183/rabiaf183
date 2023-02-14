@@ -10,5 +10,5 @@ My purpose is to help community achieving the scalability we desire for a global
 <b> <font size="+8">Languages and Tools</font>
 </p>
   <a href='https://ethereum.org/en/developers/docs/' target="_blank">
-      <img align="left" alt="Visual Studio Code" width="26px" src="https://d33wubrfki0l68.cloudfront.net/fcd4ecd90386aeb50a235ddc4f0063cfbb8a7b66/4295e/static/bfc04ac72981166c740b189463e1f74c/40129/eth-diamond-black-white.jpg" />
+      <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" />
     </a>
