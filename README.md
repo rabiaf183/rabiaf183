@@ -22,7 +22,10 @@ My purpose is to help community achieving the scalability we desire for a global
       <img align="center" alt="Visual Studio Code" width="36px" src="https://docs.soliditylang.org/en/v0.8.18/_static/logo.svg" />
     </a>
      <a href='https://www.docker.com/' target="_blank">
-      <img align="center" alt="Visual Studio Code" width="36px" src="https://www.zadara.com/wp-content/uploads/docker.png" />
+      <img align="center" alt="Visual Studio Code" width="56px" src="https://www.zadara.com/wp-content/uploads/docker.png" />
+    </a>
+     <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank">
+      <img align="center" alt="Visual Studio Code" width="56px" src="https://www.w3schools.com/whatis/img_js.png" />
     </a>
   
 
