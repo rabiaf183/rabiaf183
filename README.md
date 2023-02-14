@@ -9,7 +9,6 @@ My purpose is to help community achieving the scalability we desire for a global
 <p align="center">
 <b> <font size="+8">Languages and Tools</font>
 </p>
-  <p align="center">
   <a href='https://ethereum.org/en/developers/docs/' target="_blank">
       <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" />
     </a>
