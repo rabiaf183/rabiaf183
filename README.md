@@ -25,10 +25,11 @@ My purpose is to help community achieving the scalability we desire for a global
   <a href='https://www.rust-lang.org/' target="_blank">
       <img align="center" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png" />
     </a>
+      <a href='https://www.docker.com/' target="_blank">
+      <img align="center" alt="Visual Studio Code" width="36px" src="https://www.zadara.com/wp-content/uploads/docker.png" />
+    </a>
   
-     <a href='https://www.docker.com/' target="_blank">
-      <img align="center" alt="Visual Studio Code" width="56px" src="https://www.zadara.com/wp-content/uploads/docker.png" />
-      </a>
+    
   
   
 
