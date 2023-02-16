@@ -4,8 +4,8 @@ I am currently a Reserach Engineer at [Xord.com](https://xord.com) learning abou
 My purpose is to help community achieving the scalability we desire for a global supercomputer.
 
 - 💻 I do reserach in Cryptography(ZK),Ethereum, L2 scaling solutions and abstract protocol concepts.
-- ✍️  I write about Blockchain Infrastructure and interoperability.
-- 📷I love building in Web3, photography and memes.
+- ✍️  I write about Blockchain Infrastructure and Interoperability.
+- 📷 I love building in Web3, Photography and memes.
 
 <p align="center">
 <b> <font size="+8">Languages and Tools</font>
