@@ -7,7 +7,7 @@ My purpose is to help community achieving the scalability we desire for a global
 - ✍️  I write about Blockchain Infrastructure and Interoperability.
 - 📷 I love building in Web3, Photography and memes.
 
-´
+
   
     
   
